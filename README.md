@@ -1,16 +1,24 @@
-👋 Hello World! I'm Sanya Gupta
+# 👋 Hello World! I'm Sanya Gupta
 
-🎓 3rd-semester BE CSE student at Chandigarh University
-🤖 Passionate about Artificial Intelligence and Machine Learning
-💻 Always coding, exploring, and learning
-🌟 Seeking knowledge and building the future
+🎓 I'm a 3rd-semester Computer Science Engineering student at Chandigarh University.
 
+🤖 Passionate about Artificial Intelligence and Machine Learning, I'm always coding, exploring, and learning.
 
-🌐 Connect with me:
-📧 Email: guptasanya069@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/sanya-gupta-83062b24b
+💻 Currently, I'm on a journey to seek knowledge and contribute to building the future through technology.
 
-🔍 Exploring the realms of AI and ML, one line of code at a time!
+## 🌟 About Me
+
+- 🌐 **Connect with me:**
+  - 📧 Email: guptasanya069@gmail.com
+  - 🔗 LinkedIn: [Sanya Gupta](www.linkedin.com/in/sanya-gupta-83062b24b)
+
+- 🔍 **Exploring the realms of AI and ML, one line of code at a time!**
+
+## 🚀 GitHub Stats
+
+[![Sanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+
+Feel free to explore my repositories and join me on this exciting coding journey! 🚀
 
 <!---
 sanz2105/sanz2105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
