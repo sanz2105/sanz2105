@@ -16,7 +16,7 @@
 
 ## 🚀 GitHub Stats
 
-[![Sanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Sanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanz2105&show_icons=true&theme=radical)](https://github.com/yourusername)
 
 Feel free to explore my repositories and join me on this exciting coding journey! 🚀
 
