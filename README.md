@@ -10,7 +10,7 @@
 
 - 🌐 **Connect with me:**
   - 📧 Email: guptasanya069@gmail.com
-  - 🔗 LinkedIn: [Sanya Gupta](www.linkedin.com/in/sanya-gupta-83062b24b)
+  - 🔗 LinkedIn: [Sanya Gupta](https://www.linkedin.com/in/sanya-gupta-83062b24b/)
 
 - 🔍 **Exploring the realms of AI and ML, one line of code at a time!**
 
