@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Sanya Gupta
 
-🎓 I'm a 6th-semester Computer Science Engineering student at Chandigarh University.
+🎓 I'm a 7th-semester Computer Science Engineering student at Chandigarh University.
 
 🤖 Passionate about Artificial Intelligence and Machine Learning, I'm always coding, exploring, and learning.
 
