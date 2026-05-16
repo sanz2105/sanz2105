@@ -1,26 +1,40 @@
-# 👋 Hello World! I'm Sanya Gupta
+# Hi, I'm Sanya Gupta 👋
 
-🎓 I'm a 8th-semester Computer Science Engineering student at Chandigarh University.
+Software Engineer | Java · Python · GenAI  
+Incoming SDE @ ADP India (Aug 2026) | Ex-ADP Intern (Global Products & Technology)
 
-🤖 Passionate about Artificial Intelligence and Machine Learning, I'm always coding, exploring, and learning.
+---
 
-💻 Currently, I'm on a journey to seek knowledge and contribute to building the future through technology.
+## 🔧 What I build
 
-## 🌟 About Me
+- **GenAI test automation** — LangChain + Python pipeline that auto-generates 
+  executable Playwright (Java) test scripts from natural language specs (ADP, production)
+- **AgriWater** — Full-stack precision agriculture platform using NASA satellite 
+  data + ML models, live at agriwater-final.vercel.app
+- **Human Pose Estimation** — Real-time OpenCV + TensorFlow system with 
+  Streamlit interface
 
-- 🌐 **Connect with me:**
-  - 📧 Email: guptasanya069@gmail.com
-  - 🔗 LinkedIn: [Sanya Gupta](https://www.linkedin.com/in/sanya-gupta-83062b24b/)
+---
 
-- 🔍 **Exploring the realms of AI and ML, one line of code at a time!**
+## 🛠 Stack
 
-## 🚀 GitHub Stats
+**Languages:** Java · Python · C++ · JavaScript · SQL  
+**Frameworks:** Playwright · Spring Boot · React.js · LangChain · Streamlit  
+**Tools:** Jenkins · Docker · Git · Metabase · Bitbucket  
+**Cloud/AI:** Azure AI · AWS · Vercel · OpenCV · TensorFlow  
 
-[![Sanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanz2105&show_icons=true&theme=radical)](https://github.com/sanz2105/)
+---
 
-Feel free to explore my repositories and join me on this exciting coding journey! 🚀
+## 📊 Currently
 
-<!---
-sanz2105/sanz2105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔵 Solving LeetCode daily — Blind 75 + Striver's A2Z in progress
+- 📚 Preparing for SDE roles at Amazon, Microsoft, Meta
+- 🌱 Building a URL Shortener with Java Spring Boot + Redis
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanya_Gupta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanya-gupta-83062b24b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanz2105.github.io-green?style=flat)](https://sanz2105.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-guptasanya069@gmail.com-red?style=flat&logo=gmail)](mailto:guptasanya069@gmail.com)
